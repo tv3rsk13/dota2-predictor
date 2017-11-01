@@ -172,3 +172,5 @@ Good luck in your matches and game on!
 
   6. Can I contribute to the project?
         * Yes and I would be glad! I try to be as active as possible, so feel free to post issues, pull requests, or even contact me personally to discuss. Periodically, we ([Michael](https://github.com/michael-pacheco) and me) make updates to the [website](http://www.dotadamus.com) with changes from this repo.
+
+2017
